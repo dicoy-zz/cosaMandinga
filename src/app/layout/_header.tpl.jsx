@@ -9,7 +9,7 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#">&#xe011;</a></li>
-        <li><a href="http://lhorie.github.io/mithril/">diCoy</a></li>
+        <li><a href="#">diCoy</a></li>
       </ul>
     </nav>
   </div>

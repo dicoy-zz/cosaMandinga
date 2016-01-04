@@ -1,37 +1,27 @@
 <div class="lamagia">
+  <h3>Eh?</h3>
+  <p>
+  Aca podes aprender todo lo que le necesitas saber para hacer tus propias cosas mandingas.
+  </p>
+
   <h3>Mithril, Arduino, y demas magias...</h3>
   <p>
-    La idea era reducir al mango la cantidad de cosas que tenias que aprender para poder hacer cualquier cosa. Aprender es genial y todo lo que quieras, pero este paquete minimo e indispensable de informacion tiene que lograr cubrir todas tus necesidades
+  La idea era reducir al mango la cantidad de cosas que tenias que aprender para poder hacer cualquier cosa. Aprender es genial y todo lo que quieras, pero todo aca en cosaMandinga queremos que aprendas a hacer flotar un drone antes de molestarte con toda la matematica que la mantiene en el aire. Es mas divertido asi... 
   </p>
+
   <h3>Mithril</h3>
+  Porque antes de hacer algo util es importante que sepas mostrarlo.
   <p>
-    <ul>
-      <li>Gulpfile</li>
-      <li>Bower</li>
-      <li>LESS & Bootstrap (easy to swap with your favourite tools)</li>
-      <li>JSX (write HTML tags inside .jsx file)</li>
-      <li>INCLUDE() JavaScript files</li>
-      <li>Client side modules wrapped in CommonJs</li>
-      <li>Watch with cache (only rebuild changed files)</li>
-      <li>LiveReload</li>
-      <li>Concat and minify stylesheets and scripts for production</li>
-      <li>Unit testing will be supported soon</li>
-    </ul>
+  Mithril es un lenguaje de programacion
+  (Adaptar a mitrhil) http://facebook.github.io/react/docs/thinking-in-react.html
   </p>
+
   <h3>Arduino</h3>
   <p>
-    Make sure you have node and npm installed. Then
-    <pre><code>
-    npm install -g bower gulp http-server<br/><br/>
-
-    git clone https://github.com/ng-vu/mithril-boilerplate.git<br/>
-    cd mithril-boilerplate<br/><br/>
-
-    npm install<br/>
-    bower install<br/>
-    gulp compile<br/>
-
-    http-server build/public
-    </code></pre>
+    Otro lenguaje, este te permite controlar plaquetitas electronicas como las que le dan vida a un lavarropas, la maquina de cafe o cualquier aparato que es "inteligente"*
+  </p>
+  (*) mas inteligente que un Blackberry, pero menos inteligente que un Android
+  <p>
+    Obviamente nosotros vamos a hacerlo con javascript (porque aprender hacer doler el cerebro) https://chrome.google.com/webstore/detail/johnny-five-chrome/gjnfhdmcgnaiogffpdoiecllabiabdee/related?hl=en
   </p>
 </div>

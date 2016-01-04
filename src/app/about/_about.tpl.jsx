@@ -5,33 +5,19 @@
   </p>
   <h3>Mision, vision, cancion y locion</h3>
   <p>
-    <ul>
-      <li>Gulpfile</li>
-      <li>Bower</li>
-      <li>LESS & Bootstrap (easy to swap with your favourite tools)</li>
-      <li>JSX (write HTML tags inside .jsx file)</li>
-      <li>INCLUDE() JavaScript files</li>
-      <li>Client side modules wrapped in CommonJs</li>
-      <li>Watch with cache (only rebuild changed files)</li>
-      <li>LiveReload</li>
-      <li>Concat and minify stylesheets and scripts for production</li>
-      <li>Unit testing will be supported soon</li>
-    </ul>
+    Quadcopters, Piramides, Everything is awesome y calamina.
   </p>
   <h3>Como me puedo involucrar</h3>
   <p>
-    Make sure you have node and npm installed. Then
-    <pre><code>
-    npm install -g bower gulp http-server<br/><br/>
-
-    git clone https://github.com/ng-vu/mithril-boilerplate.git<br/>
-    cd mithril-boilerplate<br/><br/>
-
-    npm install<br/>
-    bower install<br/>
-    gulp compile<br/>
-
-    http-server build/public
-    </code></pre>
+    La forma que mas nos gusta obviamente es que nos compres <a href="#">boludeces</a>!! :D
+  </p>
+  <p>
+    Tambien podes ir a ver como funciona <a href="#/lamagia">la magia</a> para participar de los desarrollos.
+  </p>
+  <p>
+    De ultima si simplemente queres explotar el guru visionario que hace en vos, aporta y ayuda a pulir las <a href="#">ideas</a> hasta convertilas en desarrollos viables.
+  </p>
+  <p>
+    Si lo unico que te interesa es quejarte y tratar de pincharnos el globo, entra a las <a href="#/faqs">FAQs</a> a preguntarnos cosas que nos pongan incomodos.
   </p>
 </div>
