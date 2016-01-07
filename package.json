@@ -19,7 +19,7 @@
     "chai": "^1.9.1",
     "connect-livereload": "^0.4.0",
     "event-stream": "^3.1.5",
-    "gulp": "^3.6.2",
+    "gulp": "^3.9.0",
     "gulp-changed": "^0.3.0",
     "gulp-clean": "^0.2.4",
     "gulp-concat": "^2.2.0",

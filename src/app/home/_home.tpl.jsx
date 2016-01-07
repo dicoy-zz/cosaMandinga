@@ -18,7 +18,7 @@
       <div class="panel-heading">
         <h3>
           ...hace panqueques
-          <button type="button" class="header-btn">&#xe007;</button>
+          <button type="button" class="btn btn-blue btn-lg">^</button>
         </h3>
       </div>
       <div class="panel-body content-list">
@@ -39,6 +39,7 @@
         </div>
       </div>
     </div>
+    <button href="#" class="btn btn-blue btn-lg btn-block">+</button>
   </div>
   <div class="col-md-4">
     <h3>Desarrollos</h3>
