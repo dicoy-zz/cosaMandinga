@@ -1,8 +1,20 @@
 [
-  {"category": "Sporting Goods", "price": "$49.99", "stocked": true, "name": "Football"},
-  {"category": "Sporting Goods", "price": "$9.99", "stocked": true, "name": "Baseball"},
-  {"category": "Sporting Goods", "price": "$29.99", "stocked": false, "name": "Basketball"},
-  {"category": "Electronics", "price": "$99.99", "stocked": true, "name": "iPod Touch"},
-  {"category": "Electronics", "price": "$399.99", "stocked": false, "name": "iPhone 5"},
-  {"category": "Electronics", "price": "$199.99", "stocked": true, "name": "Nexus 7"}
+	{"title":"Pylon", 
+	 "features":[
+		{"title":"RGB","desc":"todos los colores que quieras"},
+		{"title":"Extensible","desc":"conectale mas luces"}]
+	},
+	{"title":"BotCakes", 
+	 "features":[
+		{"title":"Mas de 50 recetas","desc":'Cada una en sus versiones "Light", "Vegano", "Kosher", "Celiaca" y "Extra Muerte"'},
+		{"title":"Serializable","desc":"Apila hasta 8 botcakes para un sistema continuo de engorde"}]
+	},
 ]
+
+
+
+
+
+
+
+
